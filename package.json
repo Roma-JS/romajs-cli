@@ -1,0 +1,24 @@
+{
+  "name": "romajs",
+  "version": "0.0.1",
+  "description": "RomaJS interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RomaJS",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roma-JS/romajs-cli.git"
+  },
+  "keywords": [
+    "romajs",
+    "cli",
+    "contacts"
+  ],
+  "bugs": {
+    "url": "https://github.com/Roma-JS/romajs-cli/issues"
+  },
+  "homepage": "https://github.com/Roma-JS/romajs-cli#readme"
+}
