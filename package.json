@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/Roma-JS/romajs-cli/issues"
   },
-  "homepage": "https://github.com/Roma-JS/romajs-cli#readme"
+  "homepage": "https://github.com/Roma-JS/romajs-cli#readme",
+  "dependencies": {
+    "check-kit": "^1.2.1",
+    "open": "^8.2.1",
+    "yargs": "^17.0.1"
+  }
 }
